@@ -25,9 +25,9 @@ The images below show (on the left) a simple flow diagram for the decision makin
 
 <div class="row">
 <div class="col-sm-6">
-![Flow Diagram](SimpleAgentDiagram.PNG "Simple Agent Decision Diagram")
+![Flow Diagram](https://github.com/LunarEngineer/LogisticsAgents/blob/master/SimpleAgentDiagram.PNG "Simple Agent Decision Diagram")
 </div>
 <div class="col-sm-6">
-![Effectiveness Diagram](SimpleAgent.PNG "Simple Agent Effectiveness")
+![Effectiveness Diagram](https://github.com/LunarEngineer/LogisticsAgents/blob/master/SimpleAgent.PNG "Simple Agent Effectiveness")
 </div>
 </div>
