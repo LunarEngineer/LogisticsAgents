@@ -31,7 +31,7 @@ The images below show (on the left) a simple flow diagram for the decision makin
 </div>
 <div class="col-sm-6">
 
-![Effectiveness Diagram](https://github.com/LunarEngineer/LogisticsAgents/blob/master/SimpleAgent.PNG "Simple Agent Effectiveness")
+![Effectiveness Diagram](https://github.com/LunarEngineer/LogisticsAgents/blob/master/SimpleAgent.png "Simple Agent Effectiveness")
 
 </div>
 </div>
